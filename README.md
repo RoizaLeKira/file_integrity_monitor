@@ -5,4 +5,4 @@ A Python script that monitors changes to a specified file and logs any modificat
 ## Features
 - Monitors a specified file for changes using MD5 hash comparison.
 - Logs changes with timestamps for audit purposes.
-- User-friendly interface
+- User-friendly interfaces
